@@ -12,7 +12,6 @@ LSequencer {
       transformRules: transformRules
     );
     var pbindList = this.prListToPbind(list: replacedList, offset: offset, pbindKeys: pbindKeys);
-    pbindList.postln;
     synth = Ptpar(pbindList, 1);
     ^synth;
   }
