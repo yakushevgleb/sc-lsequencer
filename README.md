@@ -6,9 +6,11 @@ Parallel playing sequencer for [SuperCollider](https://github.com/supercollider/
 ## Installation
 
  1. L-System string generator
+ 
 	First of all you need to generate L-System string somewhere. There is a [NatureToolkit](https://quark.sccode.org/NatureToolkit/LSys/Help/LSys.html) quark for SuperCollider which can do that
 
  2. Classes installation
+ 
 	 Run Platform.userExtensionDir in SuperCollider (MacOS) to see classes extensions directory. After that just clone that repo into that folder
 
  
