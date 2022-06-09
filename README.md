@@ -175,4 +175,4 @@ Create L-System sequencer with specified offset between each pattern
 
 Enjoy
 
-    ~padsSynth.play
+    ~pads.play
